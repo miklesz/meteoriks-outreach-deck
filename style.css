@@ -65,6 +65,18 @@ li { margin: .32em 0; }
   font-size: .65em;
 }
 
+.source {
+  margin-top: 1.5em;
+  color: var(--muted);
+  font-size: .55em;
+}
+
+.statement {
+  margin-top: 1.2em;
+  color: var(--muted);
+  font-size: .85em;
+}
+
 .columns {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -85,6 +97,10 @@ li { margin: .32em 0; }
   gap: .45em;
 }
 
+.pipeline.four {
+  grid-template-columns: repeat(4, 1fr);
+}
+
 .step {
   min-height: 2.8em;
   padding: .65em;
@@ -98,5 +114,5 @@ li { margin: .32em 0; }
 
 @media (max-width: 800px) {
   .remark-slide-content { font-size: 22px; }
-  .columns, .pipeline { grid-template-columns: 1fr; }
+  .columns, .pipeline, .pipeline.four { grid-template-columns: 1fr; }
 }
