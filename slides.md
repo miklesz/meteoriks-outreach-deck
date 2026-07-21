@@ -19,7 +19,7 @@ The deck is deliberately reusable. The local examples can change, but the main q
 - Meteoriks results are discussed widely
 - the work behind them is discussed much less
 - misunderstandings fill the gaps
-- potential jurors often rule themselves out too early
+- many potential jurors think they are not qualified
 
 ???
 
@@ -156,7 +156,7 @@ So recommending something is useful, especially when it may be overlooked. Campa
 
 ---
 
-# Early screening is about due diligence, not full reviews
+# Early screening checks everything, but not everything in full
 
 - start from a broad release list
 - use available screenshots, captures and metadata
@@ -167,7 +167,7 @@ So recommending something is useful, especially when it may be overlooked. Campa
 
 There is a real tension here. On one side, nobody wants to miss a worthy production simply because it was released on an obscure platform, lacked a Pouet discussion or never received a polished capture. On the other side, treating every release as if it were already a finalist would make the work impossible.
 
-Due diligence does not mean every juror watches every production from beginning to end. It means the process has enough coverage to make a defensible judgement about what deserves closer attention.
+Checking everything does not mean every juror watches every production from beginning to end. It means the process has enough coverage to make a sensible judgement about what deserves closer attention.
 
 Often a screenshot, a quick scan of a capture, the party context or prior knowledge of the release is enough to decide that something is not relevant to a particular category. The difficult cases receive more time.
 

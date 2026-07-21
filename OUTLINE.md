@@ -15,7 +15,7 @@ It is not meant to be a full rulebook, an expose, a defence of every result or a
 5. `The process starts before category juries exist`
 6. `The working process has several distinct phases`
 7. `Recommendations help discovery; they are not votes`
-8. `Early screening is about due diligence, not full reviews`
+8. `Early screening checks everything, but not everything in full`
 9. `Category review is where expertise becomes useful`
 10. `Nominees and laureates answer different questions`
 11. `The same process can feel very different in two juries`
