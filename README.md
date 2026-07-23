@@ -35,3 +35,5 @@ The public version is served by GitHub Pages from the repository's default branc
 - [What are the Meteoriks?](https://2026.meteoriks.org/about/)
 - [Categories and jury formation](https://2026.meteoriks.org/categories/)
 - [Production recommendations](https://2026.meteoriks.org/taking_part/recommend/)
+- [The 2026 team and disclosed conflicts of interest](https://2026.meteoriks.org/team/)
+- [Full conflict-of-interest policy](https://wiki.meteoriks.org/index.php/ConflictOfInterest)

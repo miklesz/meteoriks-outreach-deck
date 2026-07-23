@@ -121,7 +121,7 @@ This part of the process is one reason broad expertise helps before the actual n
 
 This is the map for the rest of the talk.
 
-Discovery is about making sure relevant productions enter the field of view. Screening reduces a very large release list to material that needs serious category attention. Category review means watching, rewatching and comparing the plausible candidates. Then the jury has to agree on nominees.
+Discovery is about making sure relevant productions enter the field of view. Screening reduces a very large release list to material that needs serious jury attention. Category review means watching, rewatching and comparing the plausible candidates. Then the jury has to agree on nominees.
 
 The winner is a later decision made from that smaller nominee set. Separating these stages helps: the question "does this deserve a nomination?" is not identical to "is this the strongest nominee?"
 
@@ -222,6 +222,7 @@ The important point for a potential juror is that the work includes discussion a
   <div class="card">
     <h3>Head of jury</h3>
     <ul>
+      <li>does the usual jury work too</li>
       <li>organises the work</li>
       <li>keeps deadlines visible</li>
       <li>moves discussion forward</li>
@@ -241,7 +242,9 @@ The important point for a potential juror is that the work includes discussion a
 
 This was an important point in the feedback on the first outline.
 
-There is a common framework, but the lived experience depends heavily on people. A jury lead can create clarity by setting expectations, dividing early work, asking direct questions and making sure silence is not mistaken for agreement.
+There is a common framework, but the lived experience depends heavily on people. The head of jury is also a juror: they watch the productions, form opinions and join the discussions. The coordinating role comes on top of that work.
+
+A jury lead can create clarity by setting expectations, dividing early work, asking direct questions and making sure silence is not mistaken for agreement.
 
 The rest of the jury matters just as much. Three names in a channel do not automatically create three active jurors. If people only appear just before the deadline, the nominal team size says little about the actual capacity.
 
@@ -266,36 +269,36 @@ An in-person watch party is even better when geography allows it. Apart from mak
 
 ---
 
-# The workload is real, but it is not one fixed number
+# What does the workload mean for one juror?
 
 <div class="columns">
-  <div>
-    <h3>It grows with</h3>
+  <div class="card">
+    <h3>Early screening</h3>
     <ul>
-      <li>category breadth</li>
-      <li>release volume</li>
-      <li>missing captures or metadata</li>
+      <li>about 200 productions</li>
+      <li>spread over about a month</li>
+      <li>quick checks, not full reviews</li>
     </ul>
   </div>
-  <div>
-    <h3>It shrinks with</h3>
+  <div class="card gold">
+    <h3>Category jury</h3>
     <ul>
-      <li>experience and prior knowledge</li>
-      <li>good screening tools</li>
-      <li>an active jury</li>
+      <li>roughly 50 to 200 productions</li>
+      <li>about three busy weeks</li>
+      <li>closer watching and comparison</li>
     </ul>
   </div>
 </div>
 
-<p class="statement">The 2026 screening list contained almost 700 productions.</p>
+<p class="statement">Discussion and repeated rewatches of the shortlist often take the most time.</p>
 
 ???
 
-The number is useful for scale, but it needs context. One local screening report for the 2026 process contains 694 productions. That does not mean each juror was expected to watch all 694 in full.
+The full 2026 screening list contained 694 productions. With the work shared across active jurors, that meant roughly 200 quick checks per person across about a month, not 700 full viewings.
 
-Some categories naturally cover a narrow, easy-to-identify set. Others, such as concept or technical achievement, can potentially draw candidates from almost anywhere. A juror taking two broad categories will have a different experience from someone covering one compact category.
+The category phase is smaller but more intensive. Depending on how broad the category is, one juror may have roughly 50 to 200 productions to revisit over about three weeks in late January and early February. This is normally the period with the highest concentration of work.
 
-The timing also matters. Following releases during the year spreads the work and leaves useful memory. Starting from zero shortly before the deadline makes exactly the same list feel much larger.
+These are approximate numbers, not a promise. They depend on the category, team size and how many people actively share the work. And raw production counts still do not tell the whole story: discussions, resolving disagreements and repeatedly rewatching the shortlist can take more time than the first pass.
 
 ---
 
@@ -313,26 +316,30 @@ None of these tricks eliminates the responsibility, but together they change the
 
 If you already watched a production at a party, a title and screenshot may be enough to restore the context. If a capture exists, scanning it can tell you whether the production needs a full rewatch. Browser tooling can reduce friction when moving between Demozoo, captures and platform information.
 
-The hardest items are often those without screenshots, captures or clear metadata, especially on obscure hardware. This is also why community recommendations and people with specialised knowledge remain useful.
+The hardest items are often those without screenshots, captures or clear metadata, especially on obscure hardware. This is also why community recommendations and people with specialised knowledge are very valuable.
 
 ---
 
-# Active experts may also have work in contention
+# Conflicts of interest: allowed, but handled openly
 
-- the most useful jurors are often active sceners
-- active participation can create conflicts of interest
-- excluding every active maker would also exclude expertise
-- clear rules and visible handling matter for trust
+- the production stays eligible
+- the juror takes no part in discussion or voting on it
+- the remaining jurors make the decision
+- the conflict and how it was handled are published
+
+<p class="statement">A middle path: keep active expertise, with clear rules and transparency.</p>
 
 ???
 
-This is a real issue, and it should not be waved away.
+Meteoriks considered several options. Ignoring the conflict would be unfair. Excluding every production made by a juror would distort the award. Excluding every active producer from juries would remove a lot of current expertise.
 
-From inside a jury, a conflict may be handled correctly: the affected person does not vote, does not lead the discussion and only answers factual questions when asked. From outside, people may still see a juror's production among the nominees and assume the worst because they cannot see that handling.
+The chosen approach sits in the middle. A juror's production may still be considered, but that juror is excluded from both the discussion and the vote on it. The remaining jurors decide without them.
 
-The opposite policy - nobody with a potentially competitive production may serve - sounds clean but can remove exactly the people with current platform or discipline knowledge. There is no magical solution here.
+The handling is also made public. After the juror names are released, the Team page marks jurors whose work was nominated in their category and explains how the conflict was resolved. The full policy also says that potential conflicts are announced before the nominations, without naming the people involved at that point.
 
-Before this deck is treated as official outreach material, the exact wording of this slide and the current conflict-of-interest policy should be confirmed by Meteoriks.
+This does not make the conflict disappear, but it avoids hiding it and leaves the decision with jurors who are not directly involved.
+
+Sources: https://2026.meteoriks.org/team/ and https://wiki.meteoriks.org/index.php/ConflictOfInterest
 
 ---
 

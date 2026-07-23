@@ -20,9 +20,9 @@ It is not meant to be a full rulebook, an expose, a defence of every result or a
 10. `Nominees and laureates answer different questions`
 11. `The same process can feel very different in two juries`
 12. `Conversation is part of the work, not an optional extra`
-13. `The workload is real, but it is not one fixed number`
+13. `What does the workload mean for one juror?`
 14. `A few habits make the work much more manageable`
-15. `Active experts may also have work in contention`
+15. `Conflicts of interest: allowed, but handled openly`
 16. `More good jurors improve more than workload`
 17. `Who should consider becoming a juror?`
 18. `Recruitment has to leave the usual scene bubble`
@@ -36,6 +36,4 @@ The target is roughly 25-30 minutes plus questions. The process section is the l
 ## Review points
 
 - confirm that the public process is described accurately
-- confirm the wording around conflicts of interest
-- decide whether the `694 productions` example should stay in the reusable deck
 - add the current application/contact details before treating the deck as finished outreach material
