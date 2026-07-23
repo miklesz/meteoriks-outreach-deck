@@ -12,7 +12,7 @@
   <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
   <script>
     const slideshow = remark.create({
-      sourceUrl: "slides.md",
+      sourceUrl: `slides.md?v=${Date.now()}`,
       ratio: "16:9",
       navigation: { scroll: false },
       highlightStyle: "github"
