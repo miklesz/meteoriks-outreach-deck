@@ -4,7 +4,7 @@ A reusable presentation explaining what Meteoriks juroring looks like in practic
 
 This is a content-complete draft for review, not an official Meteoriks statement.
 
-The current version contains 20 slides with presenter notes and is intended for roughly 25-30 minutes, depending on examples and discussion.
+The current version contains 21 slides with presenter notes and is intended for roughly 30 minutes, depending on examples and discussion.
 
 ## View locally
 
@@ -36,4 +36,3 @@ The public version is served by GitHub Pages from the repository's default branc
 - [Categories and jury formation](https://2026.meteoriks.org/categories/)
 - [Production recommendations](https://2026.meteoriks.org/taking_part/recommend/)
 - [The 2026 team and disclosed conflicts of interest](https://2026.meteoriks.org/team/)
-- [Full conflict-of-interest policy](https://wiki.meteoriks.org/index.php/ConflictOfInterest)

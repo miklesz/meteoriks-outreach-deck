@@ -216,7 +216,7 @@ The important point for a potential juror is that the work includes discussion a
 
 ---
 
-# The same process can feel very different in two juries
+# Roles in a category jury
 
 <div class="columns">
   <div class="card">
@@ -240,13 +240,42 @@ The important point for a potential juror is that the work includes discussion a
 
 ???
 
-This was an important point in the feedback on the first outline.
-
-There is a common framework, but the lived experience depends heavily on people. The head of jury is also a juror: they watch the productions, form opinions and join the discussions. The coordinating role comes on top of that work.
+The head of jury is also a juror: they watch the productions, form opinions and join the discussions. The coordinating role comes on top of that work.
 
 A jury lead can create clarity by setting expectations, dividing early work, asking direct questions and making sure silence is not mistaken for agreement.
 
-The rest of the jury matters just as much. Three names in a channel do not automatically create three active jurors. If people only appear just before the deadline, the nominal team size says little about the actual capacity.
+The other jurors do not just submit a private ranking. They need to watch the material, explain their reasoning, bring in their own expertise and stay involved as the shortlist develops.
+
+---
+
+# The same process can feel very different in two juries
+
+<div class="columns">
+  <div class="card">
+    <h3>When people stay engaged</h3>
+    <ul>
+      <li>work is shared</li>
+      <li>different views are discussed</li>
+      <li>deadlines stay manageable</li>
+    </ul>
+  </div>
+  <div class="card gold">
+    <h3>When they do not</h3>
+    <ul>
+      <li>work falls to a few people</li>
+      <li>discussions stall</li>
+      <li>decisions become last-minute</li>
+    </ul>
+  </div>
+</div>
+
+<p class="statement">The number of names matters less than how many people take part.</p>
+
+???
+
+There is a common framework, but the experience depends heavily on how much everyone puts into it.
+
+Three names in a channel do not automatically create three active jurors. If people only appear just before the deadline, the nominal team size says little about the actual capacity. It also leaves less time to understand disagreements or notice something that one person missed.
 
 Conversely, a small but active group can work efficiently when people keep up, explain their views and respond to each other.
 
@@ -275,9 +304,9 @@ An in-person watch party is even better when geography allows it. Apart from mak
   <div class="card">
     <h3>Early screening</h3>
     <ul>
-      <li>about 200 productions</li>
+      <li>around 150 to 200 quick checks</li>
       <li>spread over about a month</li>
-      <li>quick checks, not full reviews</li>
+      <li>not full reviews</li>
     </ul>
   </div>
   <div class="card gold">
@@ -290,11 +319,15 @@ An in-person watch party is even better when geography allows it. Apart from mak
   </div>
 </div>
 
-<p class="statement">Discussion and repeated rewatches of the shortlist often take the most time.</p>
+<p class="statement">About 2,500 productions entered screening; about 700 remained.</p>
 
 ???
 
-The full 2026 screening list contained 694 productions. With the work shared across active jurors, that meant roughly 200 quick checks per person across about a month, not 700 full viewings.
+The 2026 process started with roughly 2,500 productions. Each one was meant to be checked by two different jurors, so the screening required about 5,000 individual checks.
+
+There were 35 jurors. If the work had been shared perfectly evenly, that would be about 143 checks each. In practice participation was uneven, so active jurors were often closer to 200. These were quick screening decisions spread across about a month, not full reviews.
+
+About 700 productions remained after screening and were then divided between the relevant category juries.
 
 The category phase is smaller but more intensive. Depending on how broad the category is, one juror may have roughly 50 to 200 productions to revisit over about three weeks in late January and early February. This is normally the period with the highest concentration of work.
 
@@ -335,11 +368,11 @@ Meteoriks considered several options. Ignoring the conflict would be unfair. Exc
 
 The chosen approach sits in the middle. A juror's production may still be considered, but that juror is excluded from both the discussion and the vote on it. The remaining jurors decide without them.
 
-The handling is also made public. After the juror names are released, the Team page marks jurors whose work was nominated in their category and explains how the conflict was resolved. The full policy also says that potential conflicts are announced before the nominations, without naming the people involved at that point.
+The handling is also made public. After the juror names are released, the Team page marks jurors whose work was nominated in their category and explains how the conflict was resolved.
 
 This does not make the conflict disappear, but it avoids hiding it and leaves the decision with jurors who are not directly involved.
 
-Sources: https://2026.meteoriks.org/team/ and https://wiki.meteoriks.org/index.php/ConflictOfInterest
+Source: https://2026.meteoriks.org/team/
 
 ---
 

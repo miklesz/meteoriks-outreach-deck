@@ -18,20 +18,21 @@ It is not meant to be a full rulebook, an expose, a defence of every result or a
 8. `Early screening checks everything, but not everything in full`
 9. `Category review is where expertise becomes useful`
 10. `Nominees and laureates answer different questions`
-11. `The same process can feel very different in two juries`
-12. `Conversation is part of the work, not an optional extra`
-13. `What does the workload mean for one juror?`
-14. `A few habits make the work much more manageable`
-15. `Conflicts of interest: allowed, but handled openly`
-16. `More good jurors improve more than workload`
-17. `Who should consider becoming a juror?`
-18. `Recruitment has to leave the usual scene bubble`
-19. `The process can improve without pretending it is broken`
-20. `If you want better Meteoriks, help build better Meteoriks`
+11. `Roles in a category jury`
+12. `The same process can feel very different in two juries`
+13. `Conversation is part of the work, not an optional extra`
+14. `What does the workload mean for one juror?`
+15. `A few habits make the work much more manageable`
+16. `Conflicts of interest: allowed, but handled openly`
+17. `More good jurors improve more than workload`
+18. `Who should consider becoming a juror?`
+19. `Recruitment has to leave the usual scene bubble`
+20. `The process can improve without pretending it is broken`
+21. `If you want better Meteoriks, help build better Meteoriks`
 
 ## Timing
 
-The target is roughly 25-30 minutes plus questions. The process section is the longest part. Slides are intentionally light; the detail is in the presenter notes.
+The target is roughly 30 minutes plus questions. The process section is the longest part. Slides are intentionally light; the detail is in the presenter notes.
 
 ## Review points
 
