@@ -5,12 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="A reusable Meteoriks outreach presentation">
   <title>Meteoriks: what juroring actually looks like</title>
-  <link rel="stylesheet" href="style.css">
+  <link id="deck-style" rel="stylesheet" href="style.css">
 </head>
 <body>
   <textarea id="source"></textarea>
   <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
   <script>
+    document.getElementById("deck-style").href = `style.css?v=${Date.now()}`;
+
     const slideshow = remark.create({
       sourceUrl: `slides.md?v=${Date.now()}`,
       ratio: "16:9",
