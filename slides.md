@@ -39,12 +39,21 @@ The point of the talk is to replace vague assumptions with a more realistic pict
 
 # Meteoriks is an open award built from category juries
 
-- it honours productions from the previous demoscene year
-- sceners can apply to become jurors
-- each category has a separate jury of at least three people
-- juries select nominees, then laureates and possible honourable mentions
-
-<p class="source">Source: meteoriks.org, About and Categories</p>
+<div class="visual-columns">
+  <div class="visual-copy">
+    <ul>
+      <li>it honours productions from the previous demoscene year</li>
+      <li>sceners can apply to become jurors</li>
+      <li>each category has a separate jury of at least three people</li>
+      <li>juries select nominees, then laureates and possible honourable mentions</li>
+    </ul>
+    <p class="source">Source: meteoriks.org, About and Categories</p>
+  </div>
+  <figure class="photo-panel">
+    <img src="assets/meteoriks-2025-jury-and-laureates-numtek.webp" alt="Meteoriks 2025 jurors, presenters and laureates on stage">
+    <figcaption>Meteoriks 2025 jurors, presenters and laureates · Photo: Numtek</figcaption>
+  </figure>
+</div>
 
 ???
 
@@ -56,6 +65,8 @@ The separation also limits the workload. A juror is responsible for a smaller pa
 
 The names of jurors are kept anonymous until the ceremony, but applications are open. In other words, the jury is not supposed to be a fixed invitation-only club, even though direct recruiting is sometimes needed to fill specialist roles.
 
+Photo source: https://marincomics.com/meteoriks-2025-jury.html
+
 ---
 
 # The awards matter because attention has a long tail
@@ -65,6 +76,25 @@ The names of jurors are kept anonymous until the ceremony, but applications are 
   <div class="step">Nomination</div>
   <div class="step">New viewers</div>
   <div class="step">Longer memory</div>
+</div>
+
+<div class="production-strip">
+  <figure>
+    <img src="assets/meteoriks-2026-primer.png" alt="Primer by Bus Error Collective">
+    <figcaption>Primer</figcaption>
+  </figure>
+  <figure>
+    <img src="assets/meteoriks-2026-reeltime.png" alt="ReelTime by Demostue Allstars">
+    <figcaption>ReelTime</figcaption>
+  </figure>
+  <figure>
+    <img src="assets/meteoriks-2026-codeboys-endians.png" alt="Codeboys and Endians by Booze Design">
+    <figcaption>Codeboys &amp; Endians</figcaption>
+  </figure>
+  <figure>
+    <img src="assets/meteoriks-2026-small64.jpg" alt="Small64 by N64Brew">
+    <figcaption>Small64</figcaption>
+  </figure>
 </div>
 
 <p class="statement">Meteoriks does not define quality, but it does influence visibility.</p>
@@ -78,6 +108,9 @@ The more modest claim is easy to observe: nominations make people revisit produc
 The ceremony also preserves a record of what the scene found remarkable in a particular year. Even parts of the show that are not awards, such as In Memoriam, contribute to community memory.
 
 If the awards have that influence, then the range of people contributing their knowledge and judgement matters as well.
+
+Production images: Demozoo, The Meteoriks 2026.
+https://demozoo.org/awards/meteoriks-2026/
 
 ---
 
