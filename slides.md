@@ -143,13 +143,13 @@ This part of the process is one reason broad expertise helps before the actual n
 
 # The working process has several distinct phases
 
-<div class="pipeline">
-  <div class="step">Discovery and recommendations</div>
-  <div class="step">Early screening</div>
-  <div class="step">Category review</div>
-  <div class="step">Nominee discussions</div>
-  <div class="step">Nominee reveal</div>
-  <div class="step">Laureate discussions</div>
+<div class="meteor-route">
+  <div class="route-step"><span>1</span><strong>Discovery</strong><small>and recommendations</small></div>
+  <div class="route-step"><span>2</span><strong>Early screening</strong></div>
+  <div class="route-step"><span>3</span><strong>Category review</strong></div>
+  <div class="route-step"><span>4</span><strong>Nominee discussions</strong></div>
+  <div class="route-step"><span>5</span><strong>Nominee reveal</strong></div>
+  <div class="route-step"><span>6</span><strong>Laureate discussions</strong></div>
 </div>
 
 <p class="small">The details vary between categories and jury leads.</p>
@@ -335,6 +335,8 @@ An in-person watch party is even better when geography allows it. Apart from mak
 
 ---
 
+class: workload-slide
+
 # What does the workload mean for one juror?
 
 <div class="columns">
@@ -356,7 +358,11 @@ An in-person watch party is even better when geography allows it. Apart from mak
   </div>
 </div>
 
-<p class="statement">About 2,500 productions entered screening; about 700 remained.</p>
+<div class="screening-funnel">
+  <div class="funnel-wide"><strong>~2,500</strong><span>productions entered screening</span></div>
+  <div class="funnel-arrow">→</div>
+  <div class="funnel-narrow"><strong>~700</strong><span>reached category juries</span></div>
+</div>
 
 ???
 
@@ -392,12 +398,23 @@ The hardest items are often those without screenshots, captures or clear metadat
 
 # Conflicts of interest: allowed, but handled openly
 
-- the production stays eligible
-- the juror takes no part in discussion or voting on it
-- the remaining jurors make the decision
-- the conflict and how it was handled are published
-
-<p class="statement">A middle path: keep active expertise, with clear rules and transparency.</p>
+<div class="coi-layout">
+  <div>
+    <ul>
+      <li>the production stays eligible</li>
+      <li>the juror takes no part in discussion or voting on it</li>
+      <li>the remaining jurors make the decision</li>
+      <li>the conflict and how it was handled are published</li>
+    </ul>
+    <p class="statement">A middle path: keep active expertise, with clear rules and transparency.</p>
+  </div>
+  <div class="coi-diagram">
+    <div class="coi-step conflicted">Juror with a conflict</div>
+    <div class="coi-move">steps out</div>
+    <div class="coi-step jury">Remaining jury</div>
+    <div class="coi-result">discusses and decides</div>
+  </div>
+</div>
 
 ???
 
@@ -453,10 +470,25 @@ At the same time, this is not a zero-commitment honorary role. Somebody who want
 
 # Recruitment has to leave the usual scene bubble
 
-- the busiest public channels do not reach everybody
-- local communities and language groups have their own spaces
-- platform and party communities know their specialists
-- personal invitations often reach people who would never self-nominate
+<div class="community-layout">
+  <div>
+    <ul>
+      <li>the busiest public channels do not reach everybody</li>
+      <li>communities know their own specialists</li>
+      <li>personal invitations reach people who would never self-nominate</li>
+    </ul>
+  </div>
+  <div class="community-network">
+    <div>Local scenes</div>
+    <div>Platform circles</div>
+    <div>Party communities</div>
+    <div>Language groups</div>
+    <div class="network-hub">Meteoriks</div>
+    <div>Group servers</div>
+    <div>Social media</div>
+    <div>Direct invites</div>
+  </div>
+</div>
 
 ???
 
