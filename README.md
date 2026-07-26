@@ -36,3 +36,8 @@ The public version is served by GitHub Pages from the repository's default branc
 - [Categories and jury formation](https://2026.meteoriks.org/categories/)
 - [Production recommendations](https://2026.meteoriks.org/taking_part/recommend/)
 - [The 2026 team and disclosed conflicts of interest](https://2026.meteoriks.org/team/)
+
+## Image credits
+
+- Opening photo: Artur Fabrycy (Mr. Acryl/Anadune), Revision 2026. Used with permission.
+- Closing artwork and meteor icon: [The Meteoriks 2026](https://2026.meteoriks.org/).

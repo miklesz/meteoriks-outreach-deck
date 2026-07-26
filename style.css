@@ -15,6 +15,7 @@ body {
 }
 
 .remark-slide-content {
+  position: relative;
   padding: 5.5% 7%;
   color: var(--text);
   background:
@@ -25,9 +26,59 @@ body {
   line-height: 1.35;
 }
 
+.remark-slide-content:not(.stage-cover):not(.meteoriks-cover)::before {
+  position: absolute;
+  top: 4.2%;
+  right: 4.3%;
+  width: 34px;
+  height: 34px;
+  content: "";
+  background: url("assets/meteoriks-icon.svg") center / contain no-repeat;
+  filter: invert(1);
+  opacity: .72;
+}
+
 .remark-slide-content::after {
   color: var(--muted);
   font-size: 14px;
+}
+
+.stage-cover {
+  padding-right: 44%;
+  background:
+    linear-gradient(90deg, rgba(6, 10, 12, .98) 0%, rgba(6, 10, 12, .86) 34%, rgba(6, 10, 12, .14) 66%, rgba(6, 10, 12, .04) 100%),
+    url("assets/stage-photo-artur-fabrycy-revision-2026.jpg") center / cover no-repeat;
+}
+
+.stage-cover h1 {
+  max-width: 8.5em;
+  text-shadow: 0 2px 18px rgba(0, 0, 0, .8);
+}
+
+.stage-cover .subtitle {
+  color: var(--text);
+  text-shadow: 0 2px 12px rgba(0, 0, 0, .9);
+}
+
+.meteoriks-cover {
+  background:
+    linear-gradient(rgba(5, 9, 11, .48), rgba(5, 9, 11, .72)),
+    url("assets/meteoriks-2026-header.jpg") center / cover no-repeat;
+}
+
+.meteoriks-cover h1,
+.meteoriks-cover .subtitle {
+  text-shadow: 0 2px 18px rgba(0, 0, 0, .9);
+}
+
+.photo-credit {
+  position: absolute;
+  right: 12%;
+  bottom: 2.8%;
+  margin: 0;
+  color: rgba(241, 237, 227, .72);
+  font-size: 12px;
+  text-shadow: 0 1px 5px rgba(0, 0, 0, .95);
 }
 
 h1, h2 {
@@ -115,4 +166,9 @@ li { margin: .32em 0; }
 @media (max-width: 800px) {
   .remark-slide-content { font-size: 22px; }
   .columns, .pipeline, .pipeline.four { grid-template-columns: 1fr; }
+  .stage-cover { padding-right: 34%; }
+  .remark-slide-content:not(.stage-cover):not(.meteoriks-cover)::before {
+    width: 24px;
+    height: 24px;
+  }
 }

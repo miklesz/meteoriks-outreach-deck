@@ -1,8 +1,10 @@
-class: center, middle
+class: middle, stage-cover
 
 # Meteoriks: what juroring actually looks like
 
 <div class="subtitle">A practical inside view</div>
+
+<p class="photo-credit">Photo: Artur Fabrycy (Mr. Acryl/Anadune), Revision 2026</p>
 
 ???
 
@@ -11,6 +13,8 @@ This talk started with a simple observation: many sceners have an opinion about 
 This is not meant to be an official rulebook or a defence of every decision ever made. It is a practical description of the process, based on taking part in it and on conversations with other jurors and organisers.
 
 The deck is deliberately reusable. The local examples can change, but the main questions should make sense in different communities: what does the work involve, how much time does it take, and who should consider joining?
+
+Photo: Artur Fabrycy (Mr. Acryl/Anadune), Revision 2026. Used with permission.
 
 ---
 
@@ -451,7 +455,7 @@ The most important habit may simply be treating juror feedback as process data. 
 
 ---
 
-class: center, middle
+class: center, middle, meteoriks-cover
 
 # If you want better Meteoriks,
 # help build better Meteoriks
@@ -462,6 +466,8 @@ class: center, middle
 
 Questions / discussion
 
+<p class="photo-credit">Official Meteoriks 2026 artwork · meteoriks.org</p>
+
 ???
 
 The process is not perfect, but it matters. It gets better when more good people take part and when the people already involved keep improving how the work is organised.
@@ -469,3 +475,5 @@ The process is not perfect, but it matters. It gets better when more good people
 The immediate call to action is simple: if this sounds like something you could contribute to, watch for the next juror call or contact the Meteoriks team. If you know somebody who would be good but is unlikely to apply on their own, send them the call directly.
 
 Questions are welcome, including sceptical ones. The goal of the talk is not to remove disagreement, but to make it better informed.
+
+Artwork source: https://2026.meteoriks.org/media/headers/start.jpg
