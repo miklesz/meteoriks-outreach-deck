@@ -20,10 +20,20 @@ Photo: Artur Fabrycy (Mr. Acryl/Anadune), Revision 2026. Used with permission.
 
 # Why make this talk?
 
-- Meteoriks results are discussed widely
-- the work behind them is discussed much less
-- misunderstandings fill the gaps
-- many potential jurors think they are not qualified
+<div class="visual-columns intro-layout">
+  <div class="visual-copy">
+    <ul>
+      <li>Meteoriks results are discussed widely</li>
+      <li>the work behind them is discussed much less</li>
+      <li>misunderstandings fill the gaps</li>
+      <li>many potential jurors think they are not qualified</li>
+    </ul>
+  </div>
+  <figure class="photo-panel trophy-photo">
+    <img src="assets/meteoriks-trophy-danko.jpg" alt="The Meteoriks trophy">
+    <figcaption>The Meteoriks trophy · Photo: Danko</figcaption>
+  </figure>
+</div>
 
 ???
 
@@ -34,6 +44,8 @@ That leaves room for two opposite myths. One is that the jury is a mysterious cl
 Neither picture is very useful. There is real work, real subjectivity and room for improvement, but there is also a process, useful tooling and a lot of ordinary coordination between sceners.
 
 The point of the talk is to replace vague assumptions with a more realistic picture.
+
+Photo source: https://www.danko.se/
 
 ---
 
@@ -428,7 +440,6 @@ The hardest items are often those without screenshots, captures or clear metadat
       <li>the remaining jurors make the decision</li>
       <li>the conflict and how it was handled are published</li>
     </ul>
-    <p class="statement">A middle path: keep active expertise, with clear rules and transparency.</p>
   </div>
   <div class="coi-diagram">
     <div class="coi-step conflicted">Juror with a conflict</div>
@@ -437,6 +448,11 @@ The hardest items are often those without screenshots, captures or clear metadat
     <div class="coi-result">discusses and decides</div>
   </div>
 </div>
+
+<figure class="policy-proof">
+  <img src="assets/meteoriks-team-conflict-policy.jpg" alt="Published conflict of interest explanation on the Meteoriks 2026 Team page">
+  <figcaption>A middle path: keep active expertise, with clear rules and transparency · Published on the Meteoriks Team page</figcaption>
+</figure>
 
 ???
 

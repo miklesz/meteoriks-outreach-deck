@@ -174,6 +174,21 @@ li { margin: .32em 0; }
   grid-template-columns: .95fr 1.05fr;
 }
 
+.intro-layout {
+  grid-template-columns: 1.15fr .85fr;
+  align-items: center;
+}
+
+.trophy-photo {
+  max-width: 330px;
+  justify-self: end;
+}
+
+.trophy-photo img {
+  height: 285px;
+  object-position: center;
+}
+
 .visual-copy ul {
   margin-top: .15em;
   padding-left: 1.15em;
@@ -196,6 +211,28 @@ li { margin: .32em 0; }
   margin-top: .35em;
   color: var(--muted);
   font-size: .43em;
+}
+
+.policy-proof {
+  position: absolute;
+  right: 7%;
+  bottom: 5.5%;
+  left: 7%;
+  margin: 0;
+}
+
+.policy-proof img {
+  display: block;
+  width: 100%;
+  height: 62px;
+  object-fit: cover;
+  border-left: 4px solid var(--gold);
+}
+
+.policy-proof figcaption {
+  margin-top: .25em;
+  color: var(--muted);
+  font-size: .4em;
 }
 
 .production-strip {
