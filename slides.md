@@ -450,7 +450,7 @@ The hardest items are often those without screenshots, captures or clear metadat
 </div>
 
 <figure class="policy-proof">
-  <img src="assets/meteoriks-team-conflict-policy.jpg" alt="Published conflict of interest explanation on the Meteoriks 2026 Team page">
+  <img src="assets/meteoriks-team-conflict-policy-v2.jpg" alt="Published conflict of interest explanation on the Meteoriks 2026 Team page">
   <figcaption>A middle path: keep active expertise, with clear rules and transparency · Published on the Meteoriks Team page</figcaption>
 </figure>
 
