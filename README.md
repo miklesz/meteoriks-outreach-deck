@@ -42,4 +42,6 @@ The public version is served by GitHub Pages from the repository's default branc
 - Opening photo: Artur Fabrycy (Mr. Acryl/Anadune), Revision 2026. Used with permission.
 - Closing artwork and meteor icon: [The Meteoriks 2026](https://2026.meteoriks.org/).
 - Meteoriks 2025 jurors, presenters and laureates: Numtek, via [Marin Balabanov's jury article](https://marincomics.com/meteoriks-2025-jury.html).
+- Subi presenting the Meteoriks 2025 awards: Numtek, via the same article.
+- Revision 2025 party hall: Marin Balabanov, via the same article.
 - Production images: creators of the respective productions, via [The Meteoriks 2026 on Demozoo](https://demozoo.org/awards/meteoriks-2026/).

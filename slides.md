@@ -228,17 +228,25 @@ The useful discussion is not simply exchanging ordered lists. Jurors need to exp
 
 ---
 
+class: nominee-laureate-slide
+
 # Nominees and laureates answer different questions
 
-<div class="columns">
-  <div class="card">
-    <h3>Nominees</h3>
-    <p>Which productions clearly deserve recognition in this category?</p>
+<div class="ceremony-layout">
+  <div class="ceremony-cards">
+    <div class="card">
+      <h3>Nominees</h3>
+      <p>Which productions clearly deserve recognition in this category?</p>
+    </div>
+    <div class="card gold">
+      <h3>Laureate</h3>
+      <p>Which nominee best represents the category this year?</p>
+    </div>
   </div>
-  <div class="card gold">
-    <h3>Laureate</h3>
-    <p>Which nominee best represents the category this year?</p>
-  </div>
+  <figure class="photo-panel ceremony-photo">
+    <img src="assets/meteoriks-2025-subi-presenting-numtek.webp" alt="Subi presenting the Meteoriks Awards beside the trophies">
+    <figcaption>Subi presenting the Meteoriks 2025 awards · Photo: Numtek</figcaption>
+  </figure>
 </div>
 
 ???
@@ -250,6 +258,8 @@ The nomination phase can preserve several different kinds of excellence. The lat
 These are group decisions, not a public popularity score and not simply an average of private rankings. How a particular jury reaches agreement can vary. Some groups resolve most questions in writing. Others need a call near the deadline. In some categories the likely winner becomes clear early; in others there is genuine disagreement until the end.
 
 The important point for a potential juror is that the work includes discussion and coordination, not only solitary watching.
+
+Photo source: https://marincomics.com/meteoriks-2025-jury.html
 
 ---
 
@@ -320,10 +330,20 @@ Conversely, a small but active group can work efficiently when people keep up, e
 
 # Conversation is part of the work, not an optional extra
 
-- text channels are useful for links and an audit trail
-- calls resolve ambiguity faster
-- planned meetings work better than last-minute scheduling
-- watch parties can turn work back into a scene activity
+<div class="visual-columns conversation-layout">
+  <div class="visual-copy">
+    <ul>
+      <li>text channels are useful for links and an audit trail</li>
+      <li>calls resolve ambiguity faster</li>
+      <li>planned meetings work better than last-minute scheduling</li>
+      <li>watch parties can turn work back into a scene activity</li>
+    </ul>
+  </div>
+  <figure class="photo-panel">
+    <img src="assets/revision-2025-hall-marin-balabanov.webp" alt="Sceners gathered around computers in the Revision 2025 party hall">
+    <figcaption>Revision 2025 party hall · Photo: Marin Balabanov</figcaption>
+  </figure>
+</div>
 
 ???
 
@@ -332,6 +352,8 @@ Several jurors described quiet channels as one of the least satisfying parts of 
 Calls can help at three natural points: a short kickoff, the nomination deadline and the final winner discussion. They do not all need to happen if the group has already reached agreement, but planning them in advance avoids the usual scheduling failure.
 
 An in-person watch party is even better when geography allows it. Apart from making discussion easier, it changes the mood. Watching demos together on a large screen feels like a demoscene activity rather than administrative work.
+
+Photo source: https://marincomics.com/meteoriks-2025-jury.html
 
 ---
 

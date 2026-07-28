@@ -141,6 +141,39 @@ li { margin: .32em 0; }
   align-items: start;
 }
 
+.ceremony-layout {
+  display: grid;
+  grid-template-columns: .85fr 1.15fr;
+  gap: 1em;
+  align-items: stretch;
+}
+
+.ceremony-cards {
+  display: grid;
+  gap: .55em;
+}
+
+.nominee-laureate-slide .ceremony-cards .card {
+  padding: .4em .6em;
+  font-size: .78em;
+}
+
+.nominee-laureate-slide .ceremony-cards h3 {
+  margin: .2em 0 .5em;
+}
+
+.nominee-laureate-slide .ceremony-cards p {
+  margin: .2em 0;
+}
+
+.ceremony-photo img {
+  height: 280px;
+}
+
+.conversation-layout {
+  grid-template-columns: .95fr 1.05fr;
+}
+
 .visual-copy ul {
   margin-top: .15em;
   padding-left: 1.15em;
@@ -435,7 +468,7 @@ li { margin: .32em 0; }
 
 @media (max-width: 800px) {
   .remark-slide-content { font-size: 22px; }
-  .columns, .visual-columns, .pipeline, .pipeline.four, .coi-layout, .community-layout {
+  .columns, .visual-columns, .ceremony-layout, .pipeline, .pipeline.four, .coi-layout, .community-layout {
     grid-template-columns: 1fr;
   }
   .stage-cover { padding-right: 34%; }
