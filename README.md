@@ -39,7 +39,7 @@ The public version is served by GitHub Pages from the repository's default branc
 
 ## Image credits
 
-- Opening photo: Artur Fabrycy (Mr. Acryl/Anadune), Revision 2026. Used with permission.
+- Opening photo: Mr. Acryl, Revision 2026. Used with permission.
 - Closing artwork and meteor icon: [The Meteoriks 2026](https://2026.meteoriks.org/).
 - Meteoriks trophy: Danko, [danko.se](https://www.danko.se/).
 - Meteoriks 2025 jurors, presenters and laureates: Numtek, via [Marin Balabanov's jury article](https://marincomics.com/meteoriks-2025-jury.html).

@@ -4,7 +4,7 @@ class: middle, stage-cover
 
 <div class="subtitle">A practical inside view</div>
 
-<p class="photo-credit">Photo: Artur Fabrycy (Mr. Acryl/Anadune), Revision 2026</p>
+<p class="photo-credit">Photo: Mr. Acryl, Revision 2026</p>
 
 ???
 
@@ -14,7 +14,7 @@ This is not meant to be an official rulebook or a defence of every decision ever
 
 The deck is deliberately reusable. The local examples can change, but the main questions should make sense in different communities: what does the work involve, how much time does it take, and who should consider joining?
 
-Photo: Artur Fabrycy (Mr. Acryl/Anadune), Revision 2026. Used with permission.
+Photo: Mr. Acryl, Revision 2026. Used with permission.
 
 ---
 
