@@ -256,8 +256,8 @@ class: nominee-laureate-slide
     </div>
   </div>
   <figure class="photo-panel ceremony-photo">
-    <img src="assets/meteoriks-2025-subi-presenting-numtek.webp" alt="Subi presenting the Meteoriks Awards beside the trophies">
-    <figcaption>Subi presenting the Meteoriks 2025 awards · Photo: Numtek</figcaption>
+    <img src="assets/meteoriks-2024-award-handover-miklesz.jpg" alt="A Meteoriks laureate receiving the award on stage">
+    <figcaption>Meteoriks award handover, Revision 2024 · Photo: Miklesz</figcaption>
   </figure>
 </div>
 
@@ -271,7 +271,7 @@ These are group decisions, not a public popularity score and not simply an avera
 
 The important point for a potential juror is that the work includes discussion and coordination, not only solitary watching.
 
-Photo source: https://marincomics.com/meteoriks-2025-jury.html
+Photo: Miklesz, Revision 2024.
 
 ---
 
@@ -352,8 +352,8 @@ Conversely, a small but active group can work efficiently when people keep up, e
     </ul>
   </div>
   <figure class="photo-panel">
-    <img src="assets/revision-2025-hall-marin-balabanov.webp" alt="Sceners gathered around computers in the Revision 2025 party hall">
-    <figcaption>Revision 2025 party hall · Photo: Marin Balabanov</figcaption>
+    <img src="assets/revision-2026-hall-miklesz.jpg" alt="Sceners gathered around computers in the Revision 2026 party hall">
+    <figcaption>Revision 2026 party hall · Photo: Miklesz</figcaption>
   </figure>
 </div>
 
@@ -365,7 +365,7 @@ Calls can help at three natural points: a short kickoff, the nomination deadline
 
 An in-person watch party is even better when geography allows it. Apart from making discussion easier, it changes the mood. Watching demos together on a large screen feels like a demoscene activity rather than administrative work.
 
-Photo source: https://marincomics.com/meteoriks-2025-jury.html
+Photo: Miklesz, Revision 2026.
 
 ---
 
